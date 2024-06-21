@@ -1,0 +1,24 @@
+[
+    {
+        "id":"1",
+        "q":"Atomic number of Hydrogen",
+        "option":{
+            "a":"1",
+            "b":"2",
+            "c":"3",
+            "d":"4"
+        },
+        "ans":"1"
+    },
+    {
+        "id":"2",
+        "q":"Atomic number of Hydrogen",
+        "option":{
+            "a":"1",
+            "b":"2",
+            "c":"3",
+            "d":"4"
+        },
+        "ans":"1"
+    }
+]
